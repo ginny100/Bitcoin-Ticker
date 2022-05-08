@@ -12,7 +12,7 @@ I made a crypto currency price checking app to monitor my bitcoin investments on
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
 
-## What you have learned
+## What I have learned
 
 - How to use the DropdownButton Widget from Material design.
 - How to loop through code using Dart for and for-in loops.
